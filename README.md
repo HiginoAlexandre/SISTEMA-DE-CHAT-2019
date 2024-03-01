@@ -1,7 +1,4 @@
 # SISTEMA-DE-CHAT-2019
-Estou trazendo um projeto que fiz de um sistema de chat utilizando php, ajax e pdo. 
-Sistema totalmente funcional para chats em real time;
-
 
 # Como configurar?
 1º após baixar o projeto, abra o <b>index.php</b>, e procure por<br>
