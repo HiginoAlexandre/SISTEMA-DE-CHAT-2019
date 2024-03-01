@@ -1,7 +1,7 @@
 <?php
 	date_default_timezone_set('america/sao_paulo');
 	
-	$conexao = array("localhost", "root", "", "teste");
+	$conexao = array("localhost", "root", "", "test");
 
 	try{
 		$pdo = new PDO("mysql:host=$conexao[0]; dbname=$conexao[3];", $conexao[1], $conexao[2]);

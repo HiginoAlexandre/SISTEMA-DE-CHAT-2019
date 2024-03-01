@@ -10,7 +10,7 @@
 	<title>Sistema de chat</title>
 
 	<!-- COLOCAR A URL DO SEU SITE AQUI EM BAIXO!!!! -->
-	<base href="http://192.168.0.100/chat/">
+	<base href="http://localhost/OTHER-PROJECTS/SISTEMA-DE-CHAT-2019/">
 
 	<!-- CSS -->
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" >
